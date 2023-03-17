@@ -1,2 +1,7 @@
 # CERTIFCATES
-## -Cegedim Hackathon 2022![image](https://user-images.githubusercontent.com/97359965/225940530-790d8731-ef5d-4e84-af69-40538dad0d37.png)
+<br/>
+## [Cegedim Hackathon 2022](https://drive.google.com/file/d/1NN2t3TX48ZarNntYfJiaA_aZk2jDJnSp/view)
+<br/>
+## [Etisalat Bootcamp 2022](https://drive.google.com/file/d/1dqCJPHrOJKnAHePT8yrp98AunfiAJaPV/view)
+<br/>
+## [Salus Lab Backend Internship](https://drive.google.com/file/d/1LbyHCqmr0PK_a9EMFRivCO1WL6seUkG-/view)
